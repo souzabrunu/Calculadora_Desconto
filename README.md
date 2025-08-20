@@ -15,7 +15,9 @@ Em alguns Macs:
     python3 calculadora_desconto.py
 
 ## Exemplo
-Entrada: 100 e 15 → Saída: 85,00
+![Demonstração no terminal](assets/demo-terminal.png)
+
+Entrada: 120 e 15 → Saída: 102
 
 ## 📌 Roadmap (próximos passos)
 - [ ] Tratar casas decimais e separador de milhar automaticamente
